@@ -1,0 +1,14 @@
+a:active {
+    color: green;
+  }
+
+  h1 {
+    font-family: Arial, sans-serif;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    text-align: justify;
+}
